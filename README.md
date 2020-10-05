@@ -61,10 +61,10 @@ where <dataset>, <epsilon>, <minpts>, <MinDegree, Rtree>, <MaxDegree Rtree> are 
 
 ## Overview
 ### Overview of the Algorithm
-| ![overview](images/overview.png) |
+![overview](images/overview.png)
 
 ### Time complexity
-![complexity](images/table1.png)|
+![complexity](images/table1.png)
 
 ## Results
 1. **Proposed sequential algorithm compared with existing sequential clustering algorithms**

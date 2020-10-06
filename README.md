@@ -4,6 +4,11 @@ This repository contains the implementation for the distributed spatial clusteri
 
 We propose an extremely efficient way to compute neighbourhood queries that not only improves the average time complexity but exhibits super-linear speed up on large astronomical datasets. Using the distributed variant of our algorithm, we were **able to cluster 1 billion 3D points in under 42 minutes**
 
+To cite our work please use 
+```
+A. Sarma et al., "μDBSCAN: An Exact Scalable DBSCAN Algorithm for Big Data Exploiting Spatial Locality," 2019 IEEE International Conference on Cluster Computing (CLUSTER), Albuquerque, NM, USA, 2019, pp. 1-11, doi: 10.1109/CLUSTER.2019.8891020.
+```
+
 ## Setup
 1. Clone the repository
 2. Install dependencies (gcc/g++, [open-mpi](https://www.open-mpi.org/))

@@ -1,6 +1,7 @@
 # MuDBSCAN
 A fast, exact, and scalable algorithm for DBSCAN clustering.
 This repository contains the implementation for the distributed spatial clustering algorithm proposed in the paper `μDBSCAN: An Exact Scalable DBSCAN Algorithm for Big Data Exploiting Spatial Locality`
+Link to paper - https://adityaas.github.io/documents/MuDBSCAN_CLUSTER19.pdf
 
 We propose an extremely efficient way to compute neighbourhood queries that not only improves the average time complexity but exhibits super-linear speed up on large astronomical datasets. Using the distributed variant of our algorithm, we were **able to cluster 1 billion 3D points in under 42 minutes**
 
